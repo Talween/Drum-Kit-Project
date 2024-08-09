@@ -6,3 +6,6 @@ This project has been designed as part of my Udemy full stack certification, wit
 For button animation effect, I created a class called press in my .css file, which I activated with the help of Timeout function in index.js file.
 
 This gave a real time animation effect, generated with button press. I think overall with the combination of html, css and javascript, it was easy to build this project, while maintaining a nice UI interface and responsiveness.
+
+**Screenshots**
+![image](https://github.com/user-attachments/assets/80e3dbae-f841-430c-a0cd-a670a83c6342)
