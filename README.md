@@ -1,4 +1,5 @@
 # Drum-Kit-Project
+talween.github.io/Drum-Kit-Project/
 I have created a drum kit project that works with key event listeners using javascript, html and css
 
 This project has been designed as part of my Udemy full stack certification, with the help of my learning, I implemented the use of buttons in the .html file and classes. Main functionality of the project has been created with javascript, using click and keypress event listeners. I used switch statements to play different sounds based on the key user presses. 
